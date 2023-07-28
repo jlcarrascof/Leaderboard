@@ -1,6 +1,14 @@
-<a name="readme-top"></a>
+# Leaderboard Project
 
-<!-- TABLE OF CONTENTS -->
+# ![Microverse bagde](https://img.shields.io/badge/Microverse-blueviolet)
+
+
+> You will be building the leaderboard website during the whole week. Here is the list of projects that will guide you through the steps described above. You will find details about each of the milestone requirements in the upcoming program activities.
+
+- Project 1: basic page structure.
+- Project 2: send and receive data from API.
+- Project 3: final touches.
+
 
 # 📗 Table of Contents
 
@@ -8,6 +16,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -22,35 +31,33 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 Leaderboard <a name="about-project"></a>
-
-This is **Leaderboard** site, created with HTML and Javascript.
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>HTML</summary>
-</details>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
+  </ul>
 
-<details>
-<summary>Javascript</summary>
-</details>
+  <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
+  </ul>
 
-<!-- Features -->
+   <ul>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">JavaScript</a></li>
+  </ul>
 
 ### Key Features <a name="key-features"></a>
 
-- **GitHub WorkFlow**
+- ** Leaderboard Project 2023 **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- GETTING STARTED -->
+- [Live Demo Link](https://jlcarrascof.github.io//)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -60,97 +67,70 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Code editor
-- Node
+Text Editor 
 
 ### Setup
 
-Clone this repository to your desired folder by opening the terminal and running the following command:
+Clone this repository to your desired folder:
 
-```sh
- git clone `https://github.com/StevenWafeek/Leaderboard/tree/setup-project`
-
+```
+  cd my-folder
+  git clone git@github.com:jlcarrasco/Leaderboard.git 
 ```
 
 ### Install
 
 Install this project with:
 
-```sh
- npm install
-
-```
+You don´t need to install this project
 
 ### Usage
 
-To run the project:
+To run the project, execute the following command:
 
-Open the Project in your code editor and start Live Server inside the index.html file.
-
+```
+  code Leaderboard
+```
 ### Run tests
 
-To run tests, run the following commands:
+To run tests, run the following command:
 
-For HTML linter errors:
-
-```sh
- npx hint .
-
-```
-
-For CSS linter errors:
-
-```sh
- npx stylelint "**/*.{css,scss}"
-
-```
-
-For Javascript linter errors:
-
-```sh
- npx eslint .
-
-```
+No tests available 
 
 ### Deployment
 
-Deployed by GitHub Pages.
+You can deploy this project using:
+
+Browser (Chrome recommended)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
-👷‍♂️ Javier J. Martínez F.
+👤 Javier J. Martínez F.
 
 - GitHub: [@jlcarrascof]
 - Twitter: [@javiersistemas]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+## 🔭 Future Features <a name="future-features"></a>
 
-## 🔭 Future milestone <a name="future-features"></a>
+No future features
 
-- using ES6
-- using API
-- using webpack
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Feel free to check the [issues page](../../issues/).
 
-<!-- SUPPORT -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please leave a star and a comment.
+If you like this project please contribute to make it better.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,14 +138,12 @@ If you like this project please leave a star and a comment.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse to have this opportunity, and also thank you the code review team.
+I'd like to give all my best wishes to you guys at Microverse community.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
 
-<p align="right">(<a href="./MIT.md">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
